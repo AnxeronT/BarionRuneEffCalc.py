@@ -11,11 +11,15 @@ Honestly, I don't know why I made a repository here anyways. I may work on it mo
 
 ---
 Usage
+---
 
 :Class:RuneData requires (int) rune level, (list) rune stat type, and (list) rune stat value.
 
 Order to rune stats :
+
 [PREFIX_STAT, SUBSTAT_1, SUBSTAT_2, SUBSTAT_3, SUBSTAT_4]
-Value for stat type
+
+Value for stat type :
+
 1 = HP | 2 = DEF | 3 = ACC | 4 = ATK | 5 = RES | 6 = CD | 7 = CR | 8 = SPD
 
